@@ -229,18 +229,6 @@ This project is licensed under the **GNU General Public License v3.0**.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see [GNU Licenses](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
----
-
-## 13. Contact
-
-- **Maintainer**: Mohammad Houkan  
-- **Email**: mh1208170@gmail.com
-  
-
-Should you encounter any issues or have suggestions for improvement, please open a GitHub issue or contact us directly.
-
----
-
 ### *Final Notes*
 
 This system was specifically designed with **ease of use** in mind, ensuring that **all workers—regardless of technical skill—can successfully track and update production orders** in a timely manner. By incorporating drag-and-drop capabilities, color-coded deadlines, and quick search functions, the platform aims to **reduce bottlenecks, minimize errors, and improve overall operational efficiency** on the factory floor.
